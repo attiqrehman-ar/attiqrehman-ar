@@ -64,5 +64,6 @@ University of Gujrat (2019 - 2023)
 
 ## 🌐 Let's Connect
 - **Email:** attiq.rehman023@gmail.com
-- **LinkedIn:** [Attiq Rehman](https://www.linkedin.com/in/attiq-rehman-/)
-- **GitHub:** [Attiq Rehman](https://github.com/attiqrehman-ar)
+- **LinkedIn:** [Attiq Ur Rehman](https://www.linkedin.com/in/attiq-rehman-/)
+- **GitHub:** [Attiq Ur Rehman](https://github.com/attiqrehman-ar)
+- **Instagram:** [Attiq Ur Rehman](https://www.instagram.com/attiq__reh?igsh=MWFxdzNhMDg1Ym8xNA==)
