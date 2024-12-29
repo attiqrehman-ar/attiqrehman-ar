@@ -78,6 +78,11 @@ I am a **Software Engineer and Business Developer** with expertise in **Shopify 
 </div>
 ---
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=attiqrehman-ar&show_icons=true&locale=en&layout=compact" alt="attiqrehman-ar" />
+</p>
+
+
 ## 💼 Work Experience
 
 ### Associate Developer | Ecomback (August 2024 – Present)
