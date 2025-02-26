@@ -92,7 +92,7 @@ I am a **Software Engineer and Business Developer** with expertise in **Shopify 
 - Optimized website performance for **SEO** using tools like **Lighthouse** and **Powermapper**, improving visibility and ranking.
 - Collaborated with clients and developers to implement enhancements that ensure the websites cater to a wider audience, focusing on accessibility and user experience.
 
-### Business Developer | Stream Consultant (May 2024 – Present)
+### Business Developer | Stream Consultant (May 2024 – Sept 2024)
 - Secured projects on various platforms and handled client interactions.
 - Coordinated project management tasks using **Trello** and **Jira**, ensuring timely delivery of applications.
 - Managed client feedback and incorporated it into the development process, enhancing project outcomes.
