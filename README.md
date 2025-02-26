@@ -74,7 +74,7 @@ I am a **Software Engineer and Business Developer** with expertise in **Shopify 
 
 ## Contribution Streak
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=attiqrehman-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=attiqrehman-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=2&count_private=true&order=1" height="200" alt="streak graph" />
 </div>
 
 ## Most Used Languages
