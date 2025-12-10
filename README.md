@@ -86,22 +86,25 @@ I am a **Software Engineer and Business Developer** with expertise in **Shopify 
 
 ## 💼 Work Experience
 
-### Associate Developer | Ecomback (August 2024 – Present)
-- Developed and optimized websites using **Shopify Liquid** and **custom-built solutions**.
-- Focused on **WCAG 2.1 compliance** to ensure websites are accessible to disabled users by implementing various accessibility tools and standards.
-- Optimized website performance for **SEO** using tools like **Lighthouse** and **Powermapper**, improving visibility and ranking.
-- Collaborated with clients and developers to implement enhancements that ensure the websites cater to a wider audience, focusing on accessibility and user experience.
+### Assosiate Developer | Ecomback (August 2024 – Present)
+• Develop custom solutions for Shopify themes using **Liquid, HTML, CSS, and
+JavaScript**.
+• Conduct **accessibility testing** and auditing using assistive technologies such as **JAWS,
+NVDA, and VoiceOver** to ensure real-world usability.
+• Perform accessibility remediation by improving HTML semantics, CSS styling, and
+JavaScript behavior to meet accessibility standards.
+• Ensure ADA compliance by implementing and validating against WCAG guidelines.
+• Work collaboratively in team environments using Git for version control and
+streamlined workflows.
+• Identify and fix performance and accessibility issues using tools like WAVE,
+Lighthouse, and PowerMapper.
+• Resolve DOM manipul
 
 ### Business Developer | Stream Consultant (May 2024 – Sept 2024)
 - Secured projects on various platforms and handled client interactions.
 - Coordinated project management tasks using **Trello** and **Jira**, ensuring timely delivery of applications.
 - Managed client feedback and incorporated it into the development process, enhancing project outcomes.
 - Collaborated on GitHub for smooth deployments and issue resolutions.
-
-### Python Django Trainee | Knowledge Streams (Jan 2024 – April 2024)
-- Developed full-stack web applications using **Python Django** in **Visual Studio Code**.
-- Collaborated in a **Git/GitHub** environment for version control and teamwork.
-- Gained experience working in fast-paced development cycles, problem-solving, and learning best practices from experienced mentors.
 
 ---
 
