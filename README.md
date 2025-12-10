@@ -1,7 +1,8 @@
 # Hi, I'm Attiq Ur Rehman 👋
 
-I am a **Software Engineer and Business Developer** with expertise in **Shopify Liquid development**, **React.js**, **Django**, **Flask**, **HTML/CSS**, and **Python**. I'm driven by a passion for innovation and a desire to create user-centric solutions that make a real impact. With a solid computer science foundation and a software engineering degree from the University of Gujrat, I've developed a unique blend of technical expertise and creative problem-solving skills. My recent work includes making websites accessible following **WCAG guidelines**, optimizing for SEO, and ensuring compliance with the latest standards to enhance the user experience for disabled individuals.
+As an Associate Developer at EcomBack, I've embraced the challenge of creating Shopify stores that are not only engaging but also ADA-compliant, ensuring accessibility for all users. My recent academic journey culminated with a Bachelor of Science in Computer Software Engineering from the University of Gujrat, providing a strong foundation for my current role.
 
+My core competencies in project management and conflict resolution, alongside proficiency in Python, Shopify, Squarespace, Wix to facilitate the delivery of projects that resonate with clients' visions. At EcomBack, our team prioritizes user-friendly solutions, and my contribution centers on optimizing web accessibility, a commitment that reflects my values of inclusivity and technological empowerment.
 ---
 
 ## 🛠️ Technologies & Tools I Work With:
